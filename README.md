@@ -1,6 +1,6 @@
 # Algorithm
 
-##### A list of solved algorithm problems from [BOJ](https://www.acmicpc.net/) / [Programmars](https://programmers.co.kr/). Most of problems will be solved in `Javascript` and  `Python`
+##### A list of solved algorithm problems from [BOJ](https://www.acmicpc.net/) / [Programmers](https://programmers.co.kr/). Most of problems will be solved in `Javascript` and  `Python`
 
 ##### 제가 백준/프로그래머스에서 푼 알고리즘 문제를 모았습니다. 대부분의 문제는 ` Javascript` , `Python`으로 풉니다
 
