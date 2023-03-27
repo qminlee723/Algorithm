@@ -4,7 +4,6 @@ const input = require("fs")
   .split(" ");
 
 let answer = 0;
-let array = [];
-array.push(input);
-array.forEach((a) => (answer += a));
+
+input.forEach((i) => (answer += Number(i)));
 console.log(answer);
