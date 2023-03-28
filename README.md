@@ -13,6 +13,8 @@ Algorithm
 └─ assets
 └─ javascript
 │		├─ BOJ
+│		├─ LeetCode
+│		│		└─ Algorithm I
 │		└─ Programmers
 │				└─ Level 0
 └─ python
@@ -29,6 +31,7 @@ Algorithm
 ```
 [yymmdd][Level #] title, extra explanation
 [yymmdd][Level #] problem#. title, extra explanation
+[yymmdd][Binary Search] problem#. title, extra explanation
 ```
 
 * A commit per a solved problem
@@ -86,8 +89,16 @@ Check out my [tech blog](https://idontlikemath-moonsong.tistory.com/) for commen
 
 
 
+
+
 ### 🚀 LeetCode
 
 ![leetcode](/Users/gyumin/Desktop/Algorithm/assets/leetcode.png)
 
 > *LeetCode* is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
+##### Level of Difficulty
+
+* Algorithm I
+* Algorithm II
+* Algorithm III
