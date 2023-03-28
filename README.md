@@ -56,7 +56,7 @@ Check out my [tech blog](https://idontlikemath-moonsong.tistory.com/) for commen
 
 ![Baekjoon Online Judge](/assets/boj-og.png)
 
-> BOJ(BaekJoon Online Judge) is a Korean based [Online Judge](https://en.wikipedia.org/wiki/Online_judge) that offers various kinds of algorithm problems for programmers. 
+> *BOJ(BaekJoon Online Judge)* is a Korean based [Online Judge](https://en.wikipedia.org/wiki/Online_judge) that offers various kinds of algorithm problems for programmers. 
 
 ##### Level of Difficulty
 
@@ -74,7 +74,7 @@ Check out my [tech blog](https://idontlikemath-moonsong.tistory.com/) for commen
 
 ![프로그래머스](/assets/img-meta-programmers-e00862a7c9acd8ef5164f8c85b3ab0127d083ab59b3a98d7219690bd3570bf35.png)
 
-> Programmers is also a Korean based [Online Judge](https://en.wikipedia.org/wiki/Online_judge) that provides a list of challenges. 
+> *Programmers* is also a Korean based [Online Judge](https://en.wikipedia.org/wiki/Online_judge) that provides a list of challenges. 
 
 ##### Level of Difficulty
 
@@ -84,3 +84,10 @@ Check out my [tech blog](https://idontlikemath-moonsong.tistory.com/) for commen
 * [Level 3]: For advanced learners. 
 * [Level 4]: For advanced learners whose targets are top-tier companies.
 
+
+
+### 🚀 LeetCode
+
+![leetcode](/Users/gyumin/Desktop/Algorithm/assets/leetcode.png)
+
+> *LeetCode* is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
