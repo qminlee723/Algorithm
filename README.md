@@ -1,8 +1,8 @@
 # Algorithm
 
-##### A list of solved algorithm problems from [BOJ](https://www.acmicpc.net/) / [Programmers](https://programmers.co.kr/). Most of problems will be solved in `Javascript` and  `Python`
+##### A list of solved algorithm problems from [BOJ](https://www.acmicpc.net/) / [Programmers](https://programmers.co.kr/) / [LeetCode](https://leetcode.com/study-plan/algorithm/). Most of problems will be solved in `Javascript` and  `Python`
 
-##### 제가 백준/프로그래머스에서 푼 알고리즘 문제를 모았습니다. 대부분의 문제는 ` Javascript` , `Python`으로 풉니다
+##### 제가 백준/프로그래머스/LeetCode에서 푼 알고리즘 문제를 모았습니다. 대부분의 문제는 ` Javascript` , `Python`으로 풉니다
 
 
 
@@ -12,15 +12,15 @@
 Algorithm
 └─ assets
 └─ javascript
-│		├─ BOJ
-│		├─ LeetCode
-│		│		└─ Algorithm I
-│		└─ Programmers
-│				└─ Level 0
+│	├─ BOJ
+│	├─ LeetCode
+│	│   └─ Algorithm I
+│	└─ Programmers
+│		    └─ Level 0
 └─ python
-│		├─ BOJ
-│		|		└─ 🥈SILVER
-│		└─ Programmers
+│	├─ BOJ
+│	|   └─ 🥈SILVER
+│	└─ Programmers
 └─ README.md
 ```
 
@@ -93,7 +93,8 @@ Check out my [tech blog](https://idontlikemath-moonsong.tistory.com/) for commen
 
 ### 🚀 LeetCode
 
-![leetcode](/Users/gyumin/Desktop/Algorithm/assets/leetcode.png)
+![leetcode](https://user-images.githubusercontent.com/95226714/228472867-96b56d24-0cb2-4ab0-a91b-cfaffc4e6662.png)
+
 
 > *LeetCode* is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
