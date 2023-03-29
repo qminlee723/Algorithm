@@ -8,6 +8,7 @@
 // You are given an API bool isBadVersion(version) which returns whether version is bad.
 // Implement a function to find the first bad version. You should minimize the number of calls to the API.
 
+// iteration
 var solution = function (isBadVersion) {
   return function (n) {
     let start = 0;
@@ -21,5 +22,20 @@ var solution = function (isBadVersion) {
       }
     }
     return end;
+  };
+};
+
+// recursion
+var solution = function (isBadVersion) {
+  // 이진 탐색 할 재귀함수 새로 설정
+  const recursion = (start, end) => {
+    if (isBadVersion(start) && isBadVersion(end)) return start;
+    const mid = Math.floor((start + end) / 2);
+    if (isBadVersion(mid)) return recursion(start + 1, mid);
+    else return recursion(mid + 1, end);
+  };
+
+  return function (n) {
+    return recursion(1, n);
   };
 };
