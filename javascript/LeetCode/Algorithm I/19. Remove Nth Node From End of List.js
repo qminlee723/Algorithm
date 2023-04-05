@@ -32,7 +32,8 @@ var removeNthFromEnd = function (head, n) {
 
   // dummy.next: [1,2,3,4,5]
   slow.next = slow.next.next; // slow.next.next: [5]
-  // dummy.next: [1,2,3,5]... 왜???????
+  // dummy.next: [1,2,3,5]... 왜냐하면 dummy.next가 head를 바라보고있음!
+  // 블로그 참조해주세용
   return dummy.next;
 };
 
