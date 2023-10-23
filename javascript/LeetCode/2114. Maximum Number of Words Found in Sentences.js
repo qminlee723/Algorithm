@@ -3,7 +3,11 @@ var mostWordsFound = function (sentences) {
 
   for (let sentence of sentences) {
     let len = sentence.split(" ").length;
-    max = max > len ? max : len;
+    if (max > len) {
+      max = max;
+    } else {
+      max = len;
+    }
   }
 
   return max;
