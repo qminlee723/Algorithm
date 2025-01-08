@@ -3,6 +3,7 @@
 ##### A list of solved algorithm problems from [BOJ](https://www.acmicpc.net/) / [Programmers](https://programmers.co.kr/) / [LeetCode](https://leetcode.com/study-plan/algorithm/). Most of problems will be solved in `Javascript` and  `Python`
 
 ##### 제가 백준/프로그래머스/LeetCode에서 푼 알고리즘 문제를 모았습니다. 대부분의 문제는 ` Javascript` , `Python`으로 풉니다
+- Java 왕국에 사는만큼 자바도 해보는 중
 
 
 
@@ -11,6 +12,8 @@
 ```
 Algorithm
 └─ assets
+└─ Java
+│	└─ Programmers
 └─ javascript
 │	├─ BOJ
 │	├─ LeetCode
