@@ -6,6 +6,9 @@ class Solution {
         for (int i = 0; i < arr.length; i++) {
             answer += arr[i];
         }
+
+        // join을 쓰는 신박한 방법도 있었다
+        // answer = String.join("", arr);
         return answer;
     }
 }
