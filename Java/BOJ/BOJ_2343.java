@@ -20,7 +20,7 @@ public class BOJ_2343 {
 
         // M개 블루레이의 길이 입력
         int left = Arrays.stream(numbers).max().getAsInt(); // 블루레이에 들어있는 값 중 가장 긴 강의 길이
-        int right = Arrays.stream(numbers).sum(); // 모든 강의 길이의 합
+        int right = 1,000,000,000; // 모든 강의 길이의 합
         int answer = 0;
 
         while (left <= right) {
@@ -34,7 +34,7 @@ public class BOJ_2343 {
                     sum = 0; // 블루레이 초기화
                 }
                 sum += numbers[i]; // 블루레이에 담긴 강의 길이 추가
-                System.out.println("sum: " + sum + ", cnt: " + cnt + ", mid: " + mid + ", left: " + left + ", right: " + right + ", answer: " + answer);
+                // System.out.println("sum: " + sum + ", cnt: " + cnt + ", mid: " + mid + ", left: " + left + ", right: " + right + ", answer: " + answer);
             }
 
             if (cnt <= M) { // 블루레이 개수가 M개 이하이면
