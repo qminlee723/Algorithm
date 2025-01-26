@@ -20,7 +20,7 @@ public class BOJ_2343 {
 
         // M개 블루레이의 길이 입력
         int left = Arrays.stream(numbers).max().getAsInt(); // 블루레이에 들어있는 값 중 가장 긴 강의 길이
-        int right = 1,000,000,000; // 가능한 최댓값(N의 최댓값 * M의 최댓값)
+        int right = 1000000000; // 가능한 최댓값(N의 최댓값 * M의 최댓값)
         int answer = 0;
 
         while (left <= right) {
