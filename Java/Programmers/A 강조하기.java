@@ -20,3 +20,10 @@ class Solution {
       return answer;
   }
 }
+
+// replace
+class Solution {
+  public String solution(String myString) {
+      String answer = "";
+      myString = myString.replace("a", "A");
+}
